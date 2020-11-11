@@ -1,0 +1,1 @@
+{"processes":{"8338c1ed-96b8-45f0-8bbc-7cfa7237020a":{"parent":"c1fbea17-b63c-420e-9edc-4f061d561827","children":[]},"c1fbea17-b63c-420e-9edc-4f061d561827":{"parent":null,"children":["8338c1ed-96b8-45f0-8bbc-7cfa7237020a"]}},"files":{"/home/suporte/js-trainning-experts/aula04-coverage-e2e/src/api.js":["8338c1ed-96b8-45f0-8bbc-7cfa7237020a"]},"externalIds":{}}
