@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx mocha -w --parallel ./src/tests/*.test.js",
-    "test:cov": "npx nyc npx mocha -w --parallel ./src/tests/*.test.js"
+    "test:cov": "npx nyc npx mocha -w --parallel ./src/tests/*.test.js"    
   },
   "keywords": [],
   "author": "",
